@@ -1,0 +1,43 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules (any depth)
+node_modules/
+
+# Build artifacts (any depth)
+dist/
+build/
+dist-ssr/
+coverage/
+.vite/
+.cache/
+.eslintcache
+
+# Env & local secrets
+.env
+.env.*            # .env.development, .env.production, etc.
+frontend/.env
+backend/.env
+*.local
+*.env.local
+
+# OS/editor cruft
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Misc
+*.pid
+*.seed
