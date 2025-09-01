@@ -1,4 +1,4 @@
-# MERN-CRASH-COURSE
+# MERN-STACK-STORE
 
 A full-stack **MERN** app with a modern Vite/Chakra UI frontend and a simple Express/Mongo API.
 
